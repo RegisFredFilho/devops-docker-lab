@@ -18,7 +18,7 @@ def test_api_retorna_http_200(resposta):
 
 def test_aplicacao_esta_online(resposta):
     dados = resposta.json()
-    assert dados["status"] == "offline"
+    assert dados["status"] == "online"
 
 
 def test_nome_do_projeto(resposta):
