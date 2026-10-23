@@ -74,3 +74,6 @@ Execute os testes da aplicação:
 - Diagnóstico de falhas
 - Testes de integração com Python
 - Fundamentos de CI/CD
+
+## Branch Protection
+Este projeto exige testes automatizados antes do merge.
