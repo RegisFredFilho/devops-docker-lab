@@ -1,0 +1,20 @@
+# Variáveis e credenciais
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Logs
+*.log
+
+# Arquivos de editores
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
